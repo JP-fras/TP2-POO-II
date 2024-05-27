@@ -9,4 +9,5 @@ El formato de las tablas de excel que se leen es el siguiente
 |----------------------------------|-----------------------------------|
 |Ej:"Juan"|Ej:"Juan, Maria, 3"|
 |EJ:"Maria"|  |
-{Las relaciones tienen el formato:(usario1, usuario2, nivelDeRelacion(1, 2 o 3)}
+
+*Las relaciones tienen el formato:(usario1, usuario2, nivelDeRelacion(1, 2 o 3)
