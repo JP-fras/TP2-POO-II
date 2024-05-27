@@ -8,4 +8,4 @@ El formato de las tablas de excel que se leen es el siguiente
 |Columna con los usuarios(Vertices)|Columna con las relaciones(Aristas)|
 |----------------------------------|-----------------------------------|
 |Ej:"Juan"|Ej:"Juan, Maria, 3"|
-|EJ:"Maria| nan |
+|EJ:"Maria|  |
